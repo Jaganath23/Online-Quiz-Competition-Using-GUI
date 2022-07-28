@@ -1,0 +1,27 @@
+In which year did the first transatlantic radio broadcast occur?					A)1857 	B)1901 	C)1923 
+What is part of a database that holds only one type of information?					A)Field	B)Row 	C)Column 
+Which is a type of Electrically-Erasable Programmable Read-Only Memory?					A)Byte 	B)Flash	C)Processor 
+.MPG extension refers usually to what kind of file?							A)Audio File 	B)Text File C)Movie File 
+Which consists of two plates separated by a dielectric and can store a charge?				A)Capacitor B)Amplifier C)Rectifier 
+The transformer that develops the high voltage in a television is commonly called a?			A)Amplifier B)Flyback 	C)Capacitor 
+DB computer abbreviation usually means?									A)Database  B)Databyte 	C)Databit 
+How many bits is a byte?										A)6 	B)8	C)10 
+Blue is what number on the resistor color code?								A)6	B)2 	C)5 
+Another word for Graphics for a word processor?								A)Paint 	B)Clipart 	C)Draw 
+What is the function of BJT in Electronics?								A)Amplifier B)Rectifier C)Condensor 
+Another word for the CPU is ?										A)Memory B)Microprocessor C)Harddrive 
+Which company created the most used networking software in the 1980's?					A)Cisco 	B)Apple 	C)Novell 
+What is the Websites code for the country Spain?							A)ES	B)ESA 	C)SP
+In what year did the Symantec Corporation first release Norton Antivirus?				A)1985 	B)1995 	C)1990 
+In 1983, which person was the first to offer a definition of the term Computer Virus?			A)Bill Gates 	B)Cohen C)Steve Jobs 
+In the abbreviation URL, what does U stand for?					 			A)Uniform  B)Unit  C)Universal 
+The NTSC (National Television Standards Committee) is also used in the country of ?			A)China           B)Vietnam 	C)Japan 
+Who built the world's first binary digit computer: Z1?						    A)Phil Zimmermann B)Konrad Zuse C)Steve Jobs 
+Who created Pretty Good Privacy (PGP)?								    A)Phil Zimmermann B)Bill Gates C)Steve Jobs 
+The sampling rate, (how many samples per second are stored) for a CD is ?				A)54.1 KHZ 	B)44.1 KHZ C)34.1 KHZ 
+CD computer abbreviation usually means ?							    A)Compact Disc B)Clear Disc C)Control Disc 
+In the term AM in Electronics, what does A stand for?							A)Antenna 	B)Air 	C)Amplitude  
+What is the computer term to put information in order numerically or alphabetically?			A)Sort 	B)Link 	C)Grade 
+The input used by an antenna or cable to a TV set uses frequencies called ?				A)AF 	B)RF 	C)PF 
+What is the process of getting output from a laser to excite an active medium called?			A)Pumping B)Heating C)Bending 	
+In thecomputer abbreviation DTP, what does DT means ?							A)Doortop 	B)Desktop C)Desktad 
